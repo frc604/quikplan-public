@@ -1,0 +1,6 @@
+PyQt5==5.15.4
+casadi~=3.5.5
+matplotlib~=3.3.3
+numpy~=1.19.3
+pillow~=8.3.0
+qtmodern~=0.2.0
